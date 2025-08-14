@@ -14,5 +14,6 @@ ATS Local Avançado
 4. **Componentização** → aprende a separar o formulário e a lista em componentes reutilizáveis.
 5. **Simulação de upload e download** → prática de lidar com arquivos sem precisar backend.
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/1580c735-a5c8-4caa-bf1f-1fea56b10ea3" />
 
 
